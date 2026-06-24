@@ -1,0 +1,6 @@
+.btn-info {
+    background-color: pink;
+}
+.btn-info:hover {
+    background-color: rgb(248, 162, 175);
+}
